@@ -4,7 +4,7 @@ title: Google Challenge Scholarship
 subtitle: And Some ES5 Nostalgia
 author: Chris
 ---
-I thought of starting with "Welcome to my first blog post!" because that's how I started the last three times, with some variation. I've decided enough with the ceremony, I should just dive in. But do consider yourself welcome to my humble blog.
+ thought of starting with "Welcome to my first blog post!" because that's how I started the last three times, with some variation. I've decided enough with the ceremony, I should just dive in. But do consider yourself welcome to my humble blog.
 
 I've zoomed through the Grow with Google Challenge Scholarship on Udacity, probably faster than I should have. We're allowed three months, and I finished in less than a week since I have so much time on my hands. Still, if I hope to be selected for the next step, the [Mobile Web Specialist scholarship](https://www.udacity.com/course/mobile-web-specialist-nanodegree--nd024), I need to stay active on the forums and help other people out. This will be a good way for me to review the material, so it sounds like a plan.
 
