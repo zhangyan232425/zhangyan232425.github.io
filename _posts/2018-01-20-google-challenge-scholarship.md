@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Google Challenge Scholarship
+title: Google
 subtitle: And Some ES5 Nostalgia
 tag:hahahaha
 author: Chris
