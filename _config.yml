@@ -28,5 +28,3 @@ plugins:
 collections: [sections]
 
 markdown: kramdown
-kramdown:
-    math_engine: katex
