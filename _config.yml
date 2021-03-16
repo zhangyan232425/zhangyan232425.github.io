@@ -16,7 +16,7 @@ linkedin_url: https://www.linkedin.com/in/yongcheng-wu-b424b9153/
 
 
 # SEO settiongs
-google_analytics: UA-112211352-1
+#google_analytics: UA-112211352-1
 
 # Build settings
 remote_theme: chrisbobbe/jekyll-theme-prologue
