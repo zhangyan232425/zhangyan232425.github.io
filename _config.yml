@@ -26,3 +26,7 @@ plugins:
 
 # Necessary for Prologue theme:
 collections: [sections]
+
+markdown: kramdown
+kramdown:
+    math_engine: katex
