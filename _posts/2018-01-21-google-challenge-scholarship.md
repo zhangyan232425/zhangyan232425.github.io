@@ -2,7 +2,7 @@
 title: Google Challenge Scholarship
 subtitle: And Some ES5 Nostalgia
 author: Chris
-layout：post
+layout：post 
 ---
  thought of starting with "Welcome to my first blog post!" because that's how I started the last three times, with some variation. I've decided enough with the ceremony, I should just dive in. But do consider yourself welcome to my humble blog.
 
