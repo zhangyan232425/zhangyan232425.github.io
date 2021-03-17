@@ -1,4 +1,5 @@
 ---
+layout:default
 title: Google Challenge Scholarship
 subtitle: And Some ES5 Nostalgia
 author: Chris
