@@ -7,7 +7,7 @@ permalink: /publication
 order: 2
 ---
 
-## Front-end
+## Publication
 
 ### Jekyll Themes
 * Build a [new Jekyll theme](https://github.com/chrisbobbe/jekyll-theme-prologue) from a single-page web template written in HTML5, Sass, and JavaScript
