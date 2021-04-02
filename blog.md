@@ -2,5 +2,5 @@
 layout: blog
 title: Blog
 icon: fas fa-stream
-order: 2
+order: 4
 ---
