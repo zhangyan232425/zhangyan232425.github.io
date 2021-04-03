@@ -1,12 +1,12 @@
 ---
-layout:"page"
-title: Pulication
-subtitle: Here are some things I can do.
-icon: fa-graduation-cap
+title: Publication
+subtitle: a list of books I read
+layout: "page"
+icon: fa-book
 order: 3
 ---
 
-## Publication
+
 
 ### Jekyll Themes
 * Build a [new Jekyll theme](https://github.com/chrisbobbe/jekyll-theme-prologue) from a single-page web template written in HTML5, Sass, and JavaScript
