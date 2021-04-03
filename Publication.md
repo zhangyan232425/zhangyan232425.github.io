@@ -1,5 +1,5 @@
 ---
-layout:page
+layout:'page'
 title: Pulication
 subtitle: Here are some things I can do.
 icon: fa-graduation-cap
