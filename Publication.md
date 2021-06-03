@@ -1,7 +1,7 @@
 ---
 title: Publication
 subtitle:
-layout: "page"
+layout: "page_old"
 icon: fa-book
 order: 3
 ---
